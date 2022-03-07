@@ -1,6 +1,6 @@
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduveks&show_icons=true&hide_border=true&bg_color=09f3ff&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduveks&show_icons=true&hide_border=true&bg_color=1c1c1c&title_color=09f1ff&icon_color=09f1ff&text_color=09f1ff" />
 </div>
 
 <div>
